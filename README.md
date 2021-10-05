@@ -35,7 +35,7 @@
 
 <img src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/man-technologist_1f468-200d-1f4bb.png" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/man-technologist_1f468-200d-1f4bb.png 2x" alt="Man Technologist on Skype Emoticons 1.2" width="160" height="160">
 
-### Contato:
+### Contatos:
 
 [![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5511999805087&text=sua%20mensagem)
 [![Linkedin](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitorlimavital@hotmail.com?subject=)
