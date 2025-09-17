@@ -22,8 +22,8 @@
 
 #### Back-End
 <div style="display: inline">
- <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" alt="Spring boot" src="https://img.shields.io/maven-central/v/org.springframework.boot/spring-boot-starter-parent.svg">
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img align="center" alt="Sql server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div> 
 <br>
